@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# Database (contains real employee usage data)
+usage.db
+
+# Python noise
+__pycache__/
+*.pyc
+.venv/
