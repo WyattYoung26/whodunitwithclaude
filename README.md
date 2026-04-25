@@ -1,4 +1,4 @@
-# tokenboard
+# whodunitwithclaude
 
 A lightweight leaderboard that tracks Claude API token usage per user and turns it into a competitive dashboard. Drop it into any Python codebase in minutes.
 
