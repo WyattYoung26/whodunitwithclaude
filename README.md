@@ -34,8 +34,6 @@ Create a `.env` file in the project root:
 ANTHROPIC_API_KEY=your_key_here
 ```
 
-> **Never commit your `.env` file.** It's already in `.gitignore`.
-
 ## Usage
 
 Replace your existing Anthropic client with `TrackedClient`:
